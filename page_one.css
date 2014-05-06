@@ -1,0 +1,27 @@
+#wrapper {
+	width:1000px;
+	margin: 0 auto;
+}
+
+#cover-image {
+	text-align: center;
+	width: 1000px;
+	height: 200px;
+}
+
+#cover {
+	width: 1000px;
+	height: 200px;
+	margin: 0 auto;
+}
+
+#navbar li {
+	display:inline;
+	text-align:center;
+}
+
+#navbar a {
+	text-decoration:none;
+	padding: 2px 50px;
+	padding-left: 170px;
+	}
